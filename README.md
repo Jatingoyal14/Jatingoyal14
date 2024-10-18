@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fefvudwjgyrwa1.gif)](https://Jatingoyal14.io)
+[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fefvudwjgyrwa1.gif)]
 <h1 align="center">Hi 👋, I'm Jatin Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt = "Coding" Width="400
