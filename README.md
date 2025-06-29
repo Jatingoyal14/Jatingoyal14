@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DSA Enthusiast </h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Right" width="500" height="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoyal14&label=Profile%20views&color=0e75b6&style=flat" alt="jatingoyal14" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **AI-ML **
 
-- 💬 Ask me about **Android , JavaScript**
+- 💬 Ask me about **Data Structures and Algorithms **
 
 - ⚡ Fun fact **I am Funny**
 
