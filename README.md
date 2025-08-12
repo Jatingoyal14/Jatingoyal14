@@ -7,10 +7,7 @@
 ⚡Holding a minor degree in Artificial Intelligence and Machine Learning, I also have hands-on experience in designing and implementing AI/ML models for real-world applications.
 ⚡My diverse skill set bridges core computer science fundamentals with modern development and emerging technologies, enabling me to approach problems with both analytical precision and creative solutions.
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoyal14&label=Profile%20views&color=0e75b6&style=flat" alt="jatingoyal14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatingoyal14" alt="jatingoyal14" /></a> </p>
 
 - 📫 How to reach me **jatingoyal01407@gmail.com**
 
@@ -27,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingoyal14&show_icons=true&locale=en" alt="jatingoyal14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingoyal14&" alt="jatingoyal14" /></p>
-
