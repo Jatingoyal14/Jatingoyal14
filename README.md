@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Goyal</h1>
-<h3 align="center">A Competitive Programmer from India</h3>
+<h3 align="center">A Dedicated Programmer from India</h3>
 
 ⚡I am passionate about Data Structures, Algorithms, and competitive programming, constantly honing my problem-solving skills through challenges and contests. Alongside this, I have developed various projects in full-stack development, showcasing my ability to build complete, functional, and user-friendly applications.
 ⚡Holding a minor degree in Artificial Intelligence and Machine Learning, I also have hands-on experience in designing and implementing AI/ML models for real-world applications.
