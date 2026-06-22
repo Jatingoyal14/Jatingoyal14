@@ -1,18 +1,28 @@
 
 # Hey, I'm Jatin 👋
 
-Aspiring Software Engineer focused on backend engineering and distributed systems.
+### Aspiring Software Engineer focused on Backend Engineering & Distributed Systems
 
-Currently exploring:
-⚡ Scalable System Design
-⚡ Distributed Computing
-⚡ Backend Architecture
-⚡ Databases & Performance Optimization
-⚡ Cloud & Infrastructure Fundamentals
+I’m currently learning how large-scale software systems are designed, built, and scaled.
 
-My goal is to learn how real-world systems are designed to handle scale, reliability, and complexity.
+## 🚀 Currently Exploring
+- ⚡ Scalable System Design
+- 🌐 Distributed Computing
+- 🏗️ Backend Architecture
+- 🗄️ Databases & Performance Optimization
+- ☁️ Cloud & Infrastructure Fundamentals
 
-Always building. Always improving.
+## 🎯 Goal
+To understand and build reliable, scalable, and high-performance systems that solve complex real-world problems.
+
+## 📚 Current Focus
+`DSA` • `Backend Development` • `System Design` • `Databases` • `Operating Systems` • `Computer Networks`
+
+---
+
+> Always building. Always improving.
+```
+
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoyal14&label=Profile%20views&color=0e75b6&style=flat" alt="jatingoyal14" /> </p>
