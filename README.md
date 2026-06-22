@@ -1,13 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Jatin Goyal</h1>
+# Hey, I'm Jatin 👋
 
+Aspiring Software Engineer focused on backend engineering and distributed systems.
 
+Currently exploring:
+⚡ Scalable System Design
+⚡ Distributed Computing
+⚡ Backend Architecture
+⚡ Databases & Performance Optimization
+⚡ Cloud & Infrastructure Fundamentals
 
-I am passionate about Data Structures, Algorithms, and competitive programming, constantly honing my problem-solving skills through challenges and contests. Alongside this, I have developed various projects in full-stack development, showcasing my ability to build complete, functional, and user-friendly applications.  
+My goal is to learn how real-world systems are designed to handle scale, reliability, and complexity.
 
-⚡Holding a minor degree in Artificial Intelligence and Machine Learning, I also have hands-on experience in designing and implementing AI/ML models for real-world applications.  
-
-⚡My diverse skill set bridges core computer science fundamentals with modern development and emerging technologies, enabling me to approach problems with both analytical precision and creative solutions.  
+Always building. Always improving.
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoyal14&label=Profile%20views&color=0e75b6&style=flat" alt="jatingoyal14" /> </p>
 
