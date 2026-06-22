@@ -21,7 +21,6 @@ To understand and build reliable, scalable, and high-performance systems that so
 ---
 
 > Always building. Always improving.
-```
 
   
 
